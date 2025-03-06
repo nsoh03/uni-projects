@@ -1,4 +1,4 @@
-#The Great advenyure game 
+#The-Great-advenyure-game 
 two games made by c++  as the final project for the computer graphics course\n
 
 First game : 
